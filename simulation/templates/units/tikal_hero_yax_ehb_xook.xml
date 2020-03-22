@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_spearman_hoplite">
+  <Auras datatype="tokens">
+  </Auras>
+  <Identity>
+    <Civ>tikal</Civ>
+    <GenericName>Yax Ehb Xook</GenericName>
+    <SpecificName>Yax Ehb Xook</SpecificName>
+    <Icon>units/athen_hero_pericles.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/tikal/hero_infantry_spearman_Yax.xml</Actor>
+  </VisualActor>
+</Entity>

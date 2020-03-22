@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_spearman">
+  <Identity>
+    <Civ>tikal</Civ>
+    <Classes datatype="tokens">nobleman</Classes>
+    <GenericName>tikaln nobleman</GenericName>
+    <SpecificName></SpecificName>
+    <Icon>units/pers_champion_infantry.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/tikal/infantry_spearman_nobreman.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="texture2">
+      <mesh>props/shield/maya_shield.dae</mesh>
+      <textures><texture file="props/shield/maya_shield_s_b.png" name="baseTex"/></textures>
+    </variant>
+    <variant frequency="1" name="texture3">
+      <mesh>props/shield/maya_shield.dae</mesh>
+      <textures><texture file="props/shield/maya_shield_s_a.png" name="baseTex"/></textures>
+    </variant>
+    <variant frequency="1" name="texture4">
+      <mesh>props/shield/maya_shield.dae</mesh>
+      <textures><texture file="props/shield/maya_shield_s_d.png" name="baseTex"/></textures>
+    </variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>

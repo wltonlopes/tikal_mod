@@ -1,0 +1,8 @@
+{
+	"name": "Tikal mod",
+	"version": "0.0.24",
+	"label": "0.A.D.Tikal",
+	"url": "forum.wildfiregames.com",
+	"description": "Adds Tikal city ​​State to 0 A.D.",
+	"dependencies": ["0ad>=0.0.24"]
+}
